@@ -15,10 +15,10 @@ keywords: 沉默王二,Java,Java教程,程序人生,程序员,前端,Web,全栈
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: qinggee/itwanger.github.io
-github_url: https://github.com/qinggee
-url: http://www.itwanger.com
-enforce_ssl: itwanger.com
+repository: 764424567/764424567.github.io
+github_url: https://github.com/764424567
+url: http://www.764424567.com
+enforce_ssl: 764424567.com
 
 ## Gem
 plugins:
