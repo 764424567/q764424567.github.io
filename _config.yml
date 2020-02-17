@@ -13,7 +13,7 @@ email: 764424567@qq.com
 description: 本站为恬静的小魔龙的技术分享博客。内容涵盖Java后端技术、Web前端等相关知识分享，还有有趣的程序人生等着你。
 keywords: 恬静的小魔龙,Java,Java教程,程序人生,程序员,前端,Web,全栈
 encoding: "utf-8"
-favicon: favicon.ico 
+favicon: https://github.com/764424567/ImgRepository/blob/master/Head/1.jpg 
 
 repository: 764424567/764424567.github.io
 github_url: https://github.com/764424567
