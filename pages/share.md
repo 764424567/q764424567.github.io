@@ -2,7 +2,7 @@
 layout: page
 title: 最精彩的知识库
 titlebar: share
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 微信搜索“沉默王二”，关注后回复“蔡徐坤”进群交流
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 微信搜索“恬静的小魔龙”，关注后回复“蔡徐坤”进群交流
 menu: life
 css: ['blog-page.css']
 permalink: /share
