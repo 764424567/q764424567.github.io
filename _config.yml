@@ -89,7 +89,7 @@ navs:
         subLabel: 开发小游戏
   -
     href: /web.html
-    label: 前端
+    label: C#编程
     target: _self
     
   -
@@ -99,7 +99,7 @@ navs:
     
   -
     href: /share.html
-    label: 知识库
+    label: 算法
     target: _self
 
 

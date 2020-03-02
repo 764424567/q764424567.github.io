@@ -1,6 +1,6 @@
 ---
 layout: post
-category: life
+category: share
 title: 大学生活这样过，校招 offer 飞来找
 tagline: by 沉默王二
 tags: 
