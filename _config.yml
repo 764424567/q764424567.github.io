@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  恬静的小魔龙
-subtitle: wx:yao_11521 「申请请注明来意」
-name: 恬静的小魔龙 
-email: 764424567@qq.com
-description: 本站为恬静的小魔龙的技术分享博客。内容涵盖Java后端技术、Web前端等相关知识分享，还有有趣的程序人生等着你。
-keywords: 恬静的小魔龙,Java,Java教程,程序人生,程序员,前端,Web,全栈
+title:  沉默王二
+subtitle: 公号「沉默王二」，一枚有趣的程序员
+name: 沉默王二 
+email: 983436076@qq.com
+description: 本站为沉默王二的技术分享博客。内容涵盖Java后端技术、Web前端等相关知识分享，还有有趣的程序人生等着你。
+keywords: 沉默王二,Java,Java教程,程序人生,程序员,前端,Web,全栈
 encoding: "utf-8"
-favicon: https://github.com/764424567/ImgRepository/blob/master/Head/1.jpg 
+favicon: favicon.ico 
 
 repository: 764424567/764424567.github.io
 github_url: https://github.com/764424567
@@ -111,7 +111,7 @@ labels:
 
   -
     href: /open-source.html
-    label: GitHub库  
+    label: Code  
     target: _blank
 
 
