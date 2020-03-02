@@ -82,11 +82,11 @@ navs:
 
       -
         subHref: /spring-boot.html
-        subLabel: Unity3D自学之路
+        subLabel: 自学之路
 
       -
         subHref: /spring-cloud.html
-        subLabel: Unity3D开发小游戏
+        subLabel: 开发小游戏
   -
     href: /web.html
     label: 前端
