@@ -79,7 +79,6 @@ navs:
     label: Java
     target: _self
 
-
   -
     href: /web.html
     label: 前端
