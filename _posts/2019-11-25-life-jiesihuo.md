@@ -1,6 +1,6 @@
 ---
 layout: post
-category: life
+category: Unity3D
 title: 程序员一般通过什么途径接私活？
 tagline: by 沉默王二
 tags: 
