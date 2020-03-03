@@ -81,11 +81,11 @@ navs:
     subnav:
 
       -
-        subHref: /spring-boot.html
+        subHref: /Unity3D-Study.html
         subLabel: 自学之路
 
       -
-        subHref: /spring-cloud.html
+        subHref: /Unity3D-Game.html
         subLabel: 开发小游戏
   -
     href: /web.html
@@ -169,19 +169,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: qing_gee
+    username: 764424567
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: qinggee
+    owner: 764424567
     repo: blog-comments
     oauth:
-        client_id: 11a6f252374ff6224761
-        client_secret: 3d1722301d3eb67900cfc3828d137c9ea50c00a7
+        client_id: f850d0f18b59784e6480
+        client_secret: 665bbd6b5e26be321f64909c1d3288962aed81de
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: qinggee
+    owner: 764424567
     repo: blog-comments
-    clientID: 11a6f252374ff6224761
-    clientSecret: 3d1722301d3eb67900cfc3828d137c9ea50c00a7
+    clientID: f850d0f18b59784e6480
+    clientSecret: 665bbd6b5e26be321f64909c1d3288962aed81de
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
