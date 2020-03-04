@@ -93,7 +93,7 @@ navs:
         subLabel: Unity3D日常开发
   -
     href: /web.html
-    label: C#编程
+    label: 文章分享
     target: _self
     
   -
@@ -138,8 +138,8 @@ classes:
 
   -
     href: /web.html
-    name: C# 系列文章
-    describe: C#是用Unity开发软件的语言，Unity3D 程序员必学
+    name: 文章分享
+    describe: 分享学习的文章、优秀的文章
 
 
 # ---------------- #
