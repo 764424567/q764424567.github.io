@@ -82,11 +82,15 @@ navs:
 
       -
         subHref: /Unity3D-Study.html
-        subLabel: 自学之路
+        subLabel: Unity3D自学之路
 
       -
         subHref: /Unity3D-Game.html
-        subLabel: 开发小游戏
+        subLabel: Unity3D开发小游戏
+        
+      -
+        subHref: /Unity3D-Daily.html
+        subLabel: Unity3D日常开发
   -
     href: /web.html
     label: C#编程
