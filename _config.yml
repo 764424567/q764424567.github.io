@@ -91,6 +91,18 @@ navs:
       -
         subHref: /Unity3D-Daily.html
         subLabel: Unity3D日常开发
+                
+      -
+        subHref: /Unity3D-Plugin.html
+        subLabel: Unity3D插件研究
+                        
+      -
+        subHref: /Unity3D-Exam.html
+        subLabel: Unity3D面试题     
+        
+      -
+        subHref: /Unity3D-Opti.html
+        subLabel: Unity3D项目优化
   -
     href: /web.html
     label: 文章分享
