@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 2020-3-4-【Markdown】CSDN-markdown编辑器使用
+title: 【Markdown】CSDN-markdown编辑器使用
 tagline: by 恬静的小魔龙
 tag: Other
 ---

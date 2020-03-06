@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】Editor自定义窗口、自定义组件、Inspector、菜单等等
+title: 【Unity3D】Editor自定义窗口、自定义组件、Inspector、菜单等等
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D日常】Unity写Json数据，以及在Unity读取、解析Json数据
+title: 【Unity3D日常】Unity写Json数据，以及在Unity读取、解析Json数据
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

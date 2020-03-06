@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】使用Unity3D的50个技巧：Unity3D最佳实践
+title: 【Unity3D】使用Unity3D的50个技巧：Unity3D最佳实践
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 2020-3-4-【SQL Server】SQL Server 数据库性能优化
+title: 【SQL Server】SQL Server 数据库性能优化
 tagline: by 恬静的小魔龙
 tag: Other
 ---

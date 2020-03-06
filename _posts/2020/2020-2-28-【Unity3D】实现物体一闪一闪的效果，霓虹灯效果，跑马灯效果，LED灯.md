@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】实现物体一闪一闪的效果，霓虹灯效果，跑马灯效果，LED灯
+title: 【Unity3D】实现物体一闪一闪的效果，霓虹灯效果，跑马灯效果，LED灯
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

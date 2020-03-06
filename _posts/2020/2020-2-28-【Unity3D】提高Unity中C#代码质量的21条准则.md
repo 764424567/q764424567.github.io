@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】提高Unity中C#代码质量的21条准则
+title: 【Unity3D】提高Unity中C#代码质量的21条准则
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】在Unity3D中实现热力图、风向图、温度图效果
+title: 【Unity3D】在Unity3D中实现热力图、风向图、温度图效果
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

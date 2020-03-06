@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 2020-3-4-【VR】SteamVR脚本解析
+title: 【VR】SteamVR脚本解析
 tagline: by 恬静的小魔龙
 tag: Other
 ---

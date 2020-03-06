@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 2020-3-4-【PUN】Photon Unity Networking(PUN)的简单使用
+title: 【PUN】Photon Unity Networking(PUN)的简单使用
 tagline: by 恬静的小魔龙
 tag: Other
 ---

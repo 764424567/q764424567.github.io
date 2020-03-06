@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】Unity3D基础小技巧
+title: 【Unity3D】Unity3D基础小技巧
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

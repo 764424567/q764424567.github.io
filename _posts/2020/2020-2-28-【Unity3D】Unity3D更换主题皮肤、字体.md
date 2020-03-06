@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】Unity3D更换主题皮肤、字体
+title: 【Unity3D】Unity3D更换主题皮肤、字体
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】游戏无法部署到windows phone8手机上的解决方法
+title: 【Unity3D】游戏无法部署到windows phone8手机上的解决方法
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

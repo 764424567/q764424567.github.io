@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】UGUI 图片实现进度条动画
+title: 【Unity3D】UGUI 图片实现进度条动画
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

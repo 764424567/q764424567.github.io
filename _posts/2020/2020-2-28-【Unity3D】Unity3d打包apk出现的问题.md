@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: U2020-2-28-【Unity3D】Unity3d打包apk出现的问题
+title: 【Unity3D】Unity3d打包apk出现的问题
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

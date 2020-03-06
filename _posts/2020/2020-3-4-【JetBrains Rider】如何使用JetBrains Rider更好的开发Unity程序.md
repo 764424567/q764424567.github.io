@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 2020-3-4-【JetBrains Rider】如何使用JetBrains Rider更好的开发Unity程序
+title: 【JetBrains Rider】如何使用JetBrains Rider更好的开发Unity程序
 tagline: by 恬静的小魔龙
 tag: Other
 ---

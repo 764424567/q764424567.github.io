@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】协程——线程（Thread）和协程（Coroutine）
+title: 【Unity3D】协程——线程（Thread）和协程（Coroutine）
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】手机连接Profiler教程篇
+title: 【Unity3D】手机连接Profiler教程篇
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

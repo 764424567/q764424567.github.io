@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 2020-3-4-【SVN】TortoiseSVN连接不上服务器解决方案
+title: 【SVN】TortoiseSVN连接不上服务器解决方案
 tagline: by 恬静的小魔龙
 tag: Other
 ---

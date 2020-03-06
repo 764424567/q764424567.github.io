@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 2020-3-4-【TCP】C#之Socket断线重连
+title: 【TCP】C#之Socket断线重连
 tagline: by 恬静的小魔龙
 tag: Other
 ---

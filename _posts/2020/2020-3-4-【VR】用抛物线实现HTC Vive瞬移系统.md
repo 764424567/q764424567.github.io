@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 2020-3-4-【VR】用抛物线实现HTC Vive瞬移系统
+title: 【VR】用抛物线实现HTC Vive瞬移系统
 tagline: by 恬静的小魔龙
 tag: Other
 ---

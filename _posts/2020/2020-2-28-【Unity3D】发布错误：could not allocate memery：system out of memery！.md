@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】发布错误：could not allocate memery：system out of memery！
+title: 【Unity3D】发布错误：could not allocate memery：system out of memery！
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

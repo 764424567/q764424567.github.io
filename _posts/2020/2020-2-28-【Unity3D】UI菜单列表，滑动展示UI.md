@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】UI菜单列表，滑动展示UI
+title: 【Unity3D】UI菜单列表，滑动展示UI
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---
