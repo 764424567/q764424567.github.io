@@ -1,8 +1,8 @@
 ---
 layout: page
-title: All articles are here
+title: 所有的文章都在这里
 titlebar: archives
-subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; <a href ="http://www.qq764424567.top/Unity3D.html"><font color="#1A0DAB">Java</font></a>&nbsp;&nbsp; <a href ="http://www.itwanger.com/life.html"><font color="#EB9439">程序人生</font></a>&nbsp;&nbsp; <a href ="http://www.itwanger.com/web.html"><font color="#1E90FF">前端</font></a>
+subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; <a href ="http://www.qq764424567.top/Unity3D.html"><font color="#1A0DAB">Unity3D</font></a>&nbsp;&nbsp; <a href ="http://www.qq764424567.top/life.html"><font color="#EB9439">程序人生</font></a>&nbsp;&nbsp; <a href ="http://www.qq764424567.top/web.html"><font color="#1E90FF">文章分享</font></a>
 menu: archives
 css: ['blog-page.css']
 permalink: /archives.html

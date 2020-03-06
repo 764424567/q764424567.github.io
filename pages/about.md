@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: 关于我
 titlebar: About
 menu: about
 subtitle:  <span class="mega-octicon octicon-person"></span>&nbsp;&nbsp; 恬静的小魔龙，程序猿一枚
