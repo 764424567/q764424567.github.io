@@ -31,18 +31,18 @@ permalink: /link
 
 ## 个人链接
 
-- [itwanger](http://www.itwanger.com/) - 个人独立博客
-- [github](https://github.com/qinggee) -  我分享代码的地方
-- [知乎](https://www.zhihu.com/people/cmower) - 个人知乎地址，回答一些问题
-- [博客园](https://www.cnblogs.com/qing-gee/) - 博客园优秀博客
-- [CSDN](http://blog.csdn.net/qing_gee)  - 博客专家
-- [掘金](https://juejin.im/user/5bd7fb9ce51d45219836421e) - 掘金优秀博客
+- [itzy](http://www.qq764424567.top/) - 个人独立博客
+- [github](https://github.com/764424567) -  我分享代码的地方
+- [知乎](https://www.zhihu.com/people/764424567) - 个人知乎地址，回答一些问题
+- [博客园](https://www.cnblogs.com/qq764424567) - 博客园优秀博客
+- [CSDN](http://blog.csdn.net/q764424567)  - 博客专家
+- [掘金](https://juejin.im/user/5e61f1ba6fb9a07cd942bb72) - 掘金优秀博客
 
 ## 其它  
 
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
-- 网站名称：itwanger
-- 网站链接：http://www.itwanger.com  
-- 网站描述：沉默王二，一个不止写代码的程序员，还写有趣有益的文字，给不喜欢严肃的你
+- 网站名称：qq764424567
+- 网站链接：http://www.qq764424567.top  
+- 网站描述：恬静的小魔龙，小菜比一个
 
