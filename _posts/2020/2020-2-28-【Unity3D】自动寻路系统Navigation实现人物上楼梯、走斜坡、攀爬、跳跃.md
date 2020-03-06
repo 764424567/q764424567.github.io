@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: Unity3D日常开发
+title: 2020-2-28-【Unity3D】自动寻路系统Navigation实现人物上楼梯、走斜坡、攀爬、跳跃
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

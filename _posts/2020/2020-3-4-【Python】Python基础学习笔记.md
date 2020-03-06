@@ -1,7 +1,7 @@
 ---
 layout: post
 category: web
-title: 文章分享
+title: 2020-3-4-【Python】Python基础学习笔记
 tagline: by 恬静的小魔龙
 tag: Other
 ---

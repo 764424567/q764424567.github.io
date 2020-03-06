@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: Unity3D日常开发
+title: 【Unity3D】Destroy()函数 和 DestroyImmediate()函数的区别
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

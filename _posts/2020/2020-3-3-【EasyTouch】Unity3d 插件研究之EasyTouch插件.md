@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Plugin
-title: Unity3D插件研究
+title: 【EasyTouch】Unity3d 插件研究之EasyTouch插件
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

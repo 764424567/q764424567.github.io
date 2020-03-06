@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Plugin
-title: Unity3D插件研究
+title: 【Unity3D插件】EasyTouch计算摇杆旋转角度以及摇杆八方向控制角色
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

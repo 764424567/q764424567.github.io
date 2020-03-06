@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Plugin
-title: Unity3D插件研究
+title: 【Unity3D插件】Unity3d  视频播放插件AVPro Video的研究
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

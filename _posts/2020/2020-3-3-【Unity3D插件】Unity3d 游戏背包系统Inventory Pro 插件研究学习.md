@@ -1,9 +1,9 @@
 ---
 layout: post
-category: web
-title: 文章分享
+category: Unity3D-Plugin
+title: 【Unity3D插件】Unity3d 游戏背包系统Inventory Pro 插件研究学习
 tagline: by 恬静的小魔龙
-tag: Other
+tag: Unity3D
 ---
 
 ##一、前言

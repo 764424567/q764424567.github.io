@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Daily
-title: Unity3D日常开发
+title: 【Unity3D】ClearFlags 与 OnRenderImage
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---
@@ -9,7 +9,9 @@ tag: Unity3D
 ## 一、前言
 无论多基础、简单的知识，只要不会，就是难。。
 这次的总结主要与相机上的Clear Flags及OnImageRender函数有关
+
 **Clear Flags**
+
 对于这个选项，我是这么理解的：每一个相机在开始绘制时，都需要对当前RenderBuffer中的颜色缓冲区(ColorBuffer)和深度缓冲区(Z-Buffer)进行是否清除的操作，这个选项控制了清除及清除后的内容。
 
 下面将展示一下不同Clear Flags设置下的区别：

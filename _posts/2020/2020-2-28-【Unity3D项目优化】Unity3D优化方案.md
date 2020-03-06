@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Unity3D-Daily
-title: 2020-2-28-【Unity3D】Unity3D如何判断一个组件已经添加到物体上面
+category: Unity3D-Opti
+title: 【Unity3D项目优化】Unity3D优化方案
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---

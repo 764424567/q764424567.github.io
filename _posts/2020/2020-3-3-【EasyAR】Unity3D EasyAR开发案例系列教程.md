@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Unity3D-Plugin
-title: Unity3D插件研究
+title: 【EasyAR】Unity3D EasyAR开发案例系列教程
 tagline: by 恬静的小魔龙
 tag: Unity3D
 ---
