@@ -3,6 +3,8 @@
 
 访问地址：[http://www.qq764424567.top/](http://www.qq764424567.top/)
 
+个人简历地址：https://itmonon.github.io/
+
 
 ## 微信搜索「恬静的小魔龙」，关注我的微信公众号
 
