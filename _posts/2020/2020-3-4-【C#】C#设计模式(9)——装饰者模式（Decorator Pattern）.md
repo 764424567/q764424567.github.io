@@ -1,6 +1,6 @@
 ---
 layout: post
-category: C#-DesignPatterns
+category: csharp-DesignPatterns
 title: 【C#】C#设计模式(9)——装饰者模式（Decorator Pattern）
 tagline: by 恬静的小魔龙
 tag: Other

@@ -109,17 +109,17 @@ navs:
     target: _self
     
   -
-    href: /C#.html
+    href: /csharp.html
     label: C#编程
     target: _self
     subnav:
 
       -
-        subHref: /C#-DesignPatterns.html
+        subHref: /csharp-DesignPatterns.html
         subLabel: C#设计模式
 
       -
-        subHref: /C#-Daily
+        subHref: /csharp-Daily
         subLabel: C#日常开发
   -
     href: /share.html

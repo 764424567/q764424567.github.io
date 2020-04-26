@@ -1,6 +1,6 @@
 ---
 layout: post
-category: C#-DesignPatterns
+category: csharp-DesignPatterns
 title: 【C#】C#设计模式(10)——组合模式（Composite Pattern）
 tagline: by 恬静的小魔龙
 tag: Other

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: C#编程
-titlebar: C#
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 微信搜索“恬静的小魔龙”，关注后回复“乔布斯”进群交流
-menu: C#
+title: C#日常开发
+titlebar: csharp-Daily
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 微信搜索“恬静的小魔龙”，关注后回复“蔡徐坤”进群交流
+menu: C#-Daily
 css: ['blog-page.css']
-permalink: /C#
+permalink: /csharp-Daily
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /C#
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='C#' %}
+                {% if post.category=='csharp-Daily' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

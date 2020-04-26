@@ -1,6 +1,6 @@
 ---
 layout: post
-category: C#-Daily
+category: csharp-Daily
 title: 【C#进阶系列】专题二：你知道Dictionary查找速度为什么快吗？
 tagline: by 恬静的小魔龙
 tag: Other

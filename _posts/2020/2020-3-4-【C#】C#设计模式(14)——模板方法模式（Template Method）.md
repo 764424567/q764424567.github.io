@@ -1,6 +1,6 @@
 ---
 layout: post
-category: C#-DesignPatterns
+category: csharp-DesignPatterns
 title: 【C#】C#设计模式(14)——模板方法模式（Template Method）
 tagline: by 恬静的小魔龙
 tag: Other

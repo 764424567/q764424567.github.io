@@ -1,6 +1,6 @@
 ---
 layout: post
-category: C#-DesignPatterns
+category: csharp-DesignPatterns
 title: 【C#】C#设计模式(11)——外观模式（Facade Pattern）
 tagline: by 恬静的小魔龙
 tag: Other

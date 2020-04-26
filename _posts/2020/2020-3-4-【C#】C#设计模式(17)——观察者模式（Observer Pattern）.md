@@ -1,6 +1,6 @@
 ---
 layout: post
-category: C#-DesignPatterns
+category: csharp-DesignPatterns
 title: 【C#】C#设计模式(17)——观察者模式（Observer Pattern）
 tagline: by 恬静的小魔龙
 tag: Other

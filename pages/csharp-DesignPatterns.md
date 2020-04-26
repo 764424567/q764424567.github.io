@@ -1,11 +1,11 @@
 ---
 layout: page
-title: C#日常开发
-titlebar: C#-Daily
+title: C#设计模式
+titlebar: csharp-DesignPatterns
 subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 微信搜索“恬静的小魔龙”，关注后回复“蔡徐坤”进群交流
-menu: C#-Daily
+menu: csharp-DesignPatterns
 css: ['blog-page.css']
-permalink: /C#-Daily
+permalink: /csharp-DesignPatterns
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /C#-Daily
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='C#-Daily' %}
+                {% if post.category=='csharp-DesignPatterns' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

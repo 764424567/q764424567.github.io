@@ -1,11 +1,15 @@
 ---
 layout: page
-title: C#设计模式
-titlebar: C#-DesignPatterns
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 微信搜索“恬静的小魔龙”，关注后回复“蔡徐坤”进群交流
-menu: C#-DesignPatterns
+title: C#编程
+titlebar: csharp
+subtitle: <span class="mega-octicon octicon-cloud-download"></span>&nbsp;&nbsp;
+     <a href ="https://blog.csdn.net/q764424567">更多精选文章 ， <font color="#EB9439">点我</font>查看！</a><br/><br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href ="http://www.qq764424567.top/assets/images/itzy.jpg">关注公众号：<font color="#00FF00">恬静的小魔龙</font>，回复“大前端”进群交流。</a>
+menu: Unity3D
 css: ['blog-page.css']
-permalink: /C#-DesignPatterns
+permalink: /csharp
+keywords: Unity3D,Unity3D开发小游戏，Unity3D插件，算法，SVN，C#，VR，PUN
 ---
 
 <div class="row">
@@ -14,7 +18,7 @@ permalink: /C#-DesignPatterns
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='C#-DesignPatterns' %}
+                {% if post.category=='csharp' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
