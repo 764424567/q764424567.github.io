@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: Unity3D
 title: 【VR】SteamVR脚本解析
 tagline: by 恬静的小魔龙
 tag: Other

@@ -104,18 +104,26 @@ navs:
         subHref: /Unity3D-Opti.html
         subLabel: Unity3D项目优化
   -
-    href: /web.html
-    label: 文章分享
+    href: /GameDemo.html
+    label: 小游戏演示
     target: _self
     
   -
-    href: /life.html
-    label: 程序人生
+    href: /C#.html
+    label: C#编程
     target: _self
-    
+    subnav:
+
+      -
+        subHref: /C#-DesignPatterns.html
+        subLabel: C#设计模式
+
+      -
+        subHref: /C#-Daily
+        subLabel: C#日常开发
   -
     href: /share.html
-    label: 算法
+    label: 文章分享
     target: _self
 
 

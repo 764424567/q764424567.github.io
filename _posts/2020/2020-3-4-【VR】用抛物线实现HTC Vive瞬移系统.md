@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: Unity3D
 title: 【VR】用抛物线实现HTC Vive瞬移系统
 tagline: by 恬静的小魔龙
 tag: Other

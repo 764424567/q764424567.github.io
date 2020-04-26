@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【SQL Server】SQL Server 数据库性能优化
 tagline: by 恬静的小魔龙
 tag: Other

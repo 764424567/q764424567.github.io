@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【Python】Python基础学习笔记
 tagline: by 恬静的小魔龙
 tag: Other

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【Blender】Blender制作简单动画
 tagline: by 恬静的小魔龙
 tag: Other

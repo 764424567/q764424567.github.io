@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: C#-Daily
 title: 【C#】单例模式（Singleton）的6种实现
 tagline: by 恬静的小魔龙
 tag: Other

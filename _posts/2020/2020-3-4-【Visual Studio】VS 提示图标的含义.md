@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【Visual Studio】VS 提示图标的含义
 tagline: by 恬静的小魔龙
 tag: Other

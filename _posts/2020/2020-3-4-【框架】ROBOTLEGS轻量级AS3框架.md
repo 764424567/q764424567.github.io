@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【框架】ROBOTLEGS轻量级AS3框架
 tagline: by 恬静的小魔龙
 tag: Other

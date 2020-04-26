@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: Unity3D-Plugin
 title: 【PUN】Photon Unity Networking(PUN)的简单使用
 tagline: by 恬静的小魔龙
 tag: Other

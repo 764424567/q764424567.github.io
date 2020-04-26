@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【SVN】TortoiseSVN连接不上服务器解决方案
 tagline: by 恬静的小魔龙
 tag: Other

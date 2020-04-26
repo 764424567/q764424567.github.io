@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【SVN】Tortoise SVN安装
 tagline: by 恬静的小魔龙
 tag: Other

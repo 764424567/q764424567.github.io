@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【Android Studio】导入外部jar包
 tagline: by 恬静的小魔龙
 tag: Other

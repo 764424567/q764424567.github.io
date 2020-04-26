@@ -1,3 +1,13 @@
+---
+layout: page
+title: Unity3D开发小游戏
+titlebar: Game_Tetris
+menu: Game_Tetris
+subtitle:  <span class="mega-octicon octicon-person"></span>&nbsp;&nbsp; 恬静的小魔龙，程序猿一枚
+css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
+permalink: /Game_Tetris
+---
+
 <html lang="en-us">
   <head>
     <meta charset="utf-8">
@@ -31,4 +41,6 @@
     </div>
   </body>
 </html>
+
+
 

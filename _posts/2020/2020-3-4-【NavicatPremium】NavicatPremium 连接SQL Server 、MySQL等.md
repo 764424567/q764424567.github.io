@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【NavicatPremium】NavicatPremium 连接SQL Server 、MySQL等
 tagline: by 恬静的小魔龙
 tag: Other

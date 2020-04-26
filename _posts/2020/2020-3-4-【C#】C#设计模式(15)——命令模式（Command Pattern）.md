@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: C#-DesignPatterns
 title: 【C#】C#设计模式(15)——命令模式（Command Pattern）
 tagline: by 恬静的小魔龙
 tag: Other

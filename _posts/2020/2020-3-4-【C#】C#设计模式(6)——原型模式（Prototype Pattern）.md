@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: C#-DesignPatterns
 title: 【C#】C#设计模式(6)——原型模式（Prototype Pattern）
 tagline: by 恬静的小魔龙
 tag: Other

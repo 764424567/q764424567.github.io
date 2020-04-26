@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【Android】Android Studio的使用
 tagline: by 恬静的小魔龙
 tag: Other

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: C#-DesignPatterns
 title: 【C#】C#设计模式(20)——责任链模式
 tagline: by 恬静的小魔龙
 tag: Other

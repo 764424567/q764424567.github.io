@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 文章分享
-titlebar: share
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 微信搜索“恬静的小魔龙”，关注后回复“蔡徐坤”进群交流
-menu: life
+title: C#编程
+titlebar: C#
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 微信搜索“恬静的小魔龙”，关注后回复“乔布斯”进群交流
+menu: C#
 css: ['blog-page.css']
-permalink: /share
+permalink: /C#
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /share
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='share' %}
+                {% if post.category=='C#' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

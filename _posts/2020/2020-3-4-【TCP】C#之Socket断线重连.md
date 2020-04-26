@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: share
 title: 【TCP】C#之Socket断线重连
 tagline: by 恬静的小魔龙
 tag: Other

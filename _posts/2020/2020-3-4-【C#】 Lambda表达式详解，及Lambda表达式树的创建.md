@@ -1,6 +1,6 @@
 ---
 layout: post
-category: web
+category: C#-Daily
 title: 【C#】 Lambda表达式详解，及Lambda表达式树的创建
 tagline: by 恬静的小魔龙
 tag: Other
