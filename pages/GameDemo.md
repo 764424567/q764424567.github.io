@@ -69,7 +69,7 @@ keywords: Unity3D,Unity3D开发小游戏，Unity3D插件，算法，SVN，C#，V
 <div class="Game">
 <p>1、Unity3D开发《俄罗斯方块》游戏</p>
 <p>截图：<br></p>
-<p><img src="http://q8g7kj21n.bkt.clouddn.com/20200426181730.png" height="300px" width="481px"></p>
+<p><img src="http://cdn.qq764424567.top/20200426181730.png" height="300px" width="481px"></p>
 <p>教程：<br></p>
 <p><a href="https://blog.csdn.net/q764424567/article/details/93622038">https://blog.csdn.net/q764424567/article/details/93622038</a></p>
 <p>演示地址：<br></p>
@@ -79,7 +79,7 @@ keywords: Unity3D,Unity3D开发小游戏，Unity3D插件，算法，SVN，C#，V
 <div class="Game2">
 <p>2、Unity3D开发《愤怒的小鸟》游戏</p>
 <p>截图：<br></p>
-<p><img src="http://q8g7kj21n.bkt.clouddn.com/1" height="300px" width="481px"></p>
+<p><img src="http://cdn.qq764424567.top/1" height="300px" width="481px"></p>
 <p>教程：<br></p>
 <p><a href="https://blog.csdn.net/q764424567/article/details/100726495">https://blog.csdn.net/q764424567/article/details/100726495</a></p>
 <p>演示地址：<br></p>
